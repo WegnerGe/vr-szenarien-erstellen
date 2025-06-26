@@ -14,9 +14,9 @@ comment:  Dieser Kurs bietet einen kompakten Einstieg in das Thema „VR-Szenari
 
 # VR-Szenarien auf Basis von 360-Grad Videos selbst erstellen
 
-![](https://images.pexels.com/photos/3183176/pexels-photo-3183176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/titelbild-selbstlernkurs/@@images/84bf7ddf-bfca-486f-b271-90e762ccee14.jpeg)
 
-Images: ©Pexels / Text-to-Speech: ©ElevenLabs
+Images: ©Wegner/Canva
 
 
 ?[](b89006819e1c2393a3eba025ff321bea72a3e68b.mp3)
@@ -48,7 +48,11 @@ Nach Teilnahme an diesem kostenfreien Online-Kurs...
 
 Viel Spaß beim Lernen wünscht Ihnen das hochschuldidaktische Verbundprojekt D2C2!
 
-PS: Mehr zu D2C2 erfahren Sie auf unserer [D2C2-Webseite](https://www.hd-sachsen.de/projekte/d2c2) 
+PS: Mehr zu D2C2 erfahren Sie auf unserer [D2C2-Webseite](https://www.hd-sachsen.de/projekte/d2c2)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
+
+D2C2/ Wegner (2025)
 
 # XR, AR, VR? - Was ist das eigentlich?
 
@@ -66,8 +70,6 @@ Sowohl innerhalb als auch außerhalb der Universität stößt man mittlerweile v
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Reality-Virtuality_Continuum.svg)
 
 ©Wikimedia
-
-
 
 __Extended Reality (XR)__
 
@@ -93,7 +95,7 @@ Ein Beispiel für eine videobasierte VR-Anwendung ist das folgende Patientenzimm
 Das zweite Beispiel zeigt eine gänzlich computerbasierte VR-Anwendung aus der Ego-Perspektive einer Nutzerin. Es handelt sich um die kommerzielle Social VR-Plattform TriCAT, über die mehrere Personen im virtuellen Raum zusammenkommen und kollaborieren können.
 
 
-![](6cae26bc09d0c2ab03e98ee5dcfa64073bd166dd.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/tricat/@@images/eb018914-e11c-4fb8-a2f0-22735d8fac9e.png)
 
 ©TriCAT/Wegner
 
@@ -188,9 +190,9 @@ __Quellen
 
 __Testen Sie Ihr Wissen aus der ersten Sektion. Viel Erfolg!__
 
-![](b57674c9d5291a25af28a4b2aebf93dfb1dd985c.jpg)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/fragezeichen/@@images/7b184857-6276-48e9-80d3-3350ffcb92c7.jpeg)
 
-©Pexels/Leeloo
+©Wegner/ erstellt mit Canva
 
 ### 1. Grundlegende Begriffe
 
@@ -247,6 +249,8 @@ Erkunden Sie weitere Lehr-Lern-Anwendungen auf der [Digital Learning Map](https:
 
 ![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/digital-learning-app/@@images/ba482360-ea55-4743-8a81-8c043b96d727.png)
 
+Image: ©e-teaching.org
+
 ## Gesundheit & Pflege
 Virtual-Reality-Simulationen gewinnen sowohl in der Medizin als auch in der Aus- und Weiterbildung von Gesundheits- und Pflegeberufen zunehmend an Bedeutung (Lerner et al., 2020; Fries et al., 2023; Häfner et al., 2024). Sie ermöglichen es Lernenden, berufliche Handlungssituationen zu erproben und wiederholt zu trainieren ohne dabei echte Patient:innen zu gefährden. VR-Simulationen bieten somit eine geschützte Lernatmosphäre und bilden, neben den bereits etablierten aber oft kostenspieligen Simulationslaboren, eine weitere Brücke zwischen der Ausbildung in Schule und Praxis (Fries et al., 2023).
 
@@ -269,6 +273,14 @@ Entwickelt von der Stiftung für Patientensicherheit Schweiz bietet der Room of 
 Mehr über den Room of Horror erfahren Sie im Podcast Gepflegtes Palaver
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1aXBD0I56GzMS32sGFv4TQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+__Quellen
+
+Fries S., Pfeifer L., Schlautmann K., Freese C., Nauerth A., Raschper P. (2023). Innovative Lehr-/Lernszenarien in den Pflege- und Gesundheitsberufen. Working Paper-Reihe der Projekte DiViFaG und ViRDiPA; 7. https://doi.org/10.4119/unibi/2978152
+
+Häfner, L., Birkenmeier, M., Liel, A., Plotzky, C., Enkler, H., Bock, K., & Ziegler, S. (2024). Nicht den Durchblick verlieren – Virtual-Reality-Simulation in der OTA-Ausbildung. Im OP, 14(06): 283-287. https://doi.org/10.1055/a-2362-1032
+
+Lerner, D., Pranghofer, J., Franke, A. (2022). Der Einfluss des Präsenzerlebens auf die Lern- und Trainingseffekte in einer Virtual-Reality Simulationsumgebung. Pädagogik der Gesundheitsberufe 7 (1): 17–25.
 
 ## Geisteswissenschaften
 
@@ -372,7 +384,7 @@ Karstädt, M., Walter, A., Wegner, G. (2025). VR-Simulationen erstellen lernen. 
 
 ## Drehbuch & mögliche Aktionselemente
 
-Damit am Drehtag alles reibungslos verläuft, sollten Sie ein Drehbuch vorbereiten, das Details zu jeder geplanten Szene enthält. Überlegen Sie wie viele und welche Szenen für die Umsetzung der Lernanwendung genau benötigt werden. Wo können Sie diese Szenen drehen und welche zusätzlichen Materialien werden benötigt? Sie könnten sich bespielsweise dazu entscheiden, nur einen Raum - sagen wir ein Labor - aus verschiedenen Perspektiven und mit platzierten Gefahrenquellen aufzunehmen und anschließend durch interaktive Elemente anzureichern. So könnte eine Fehlersuche im Rahmen einer interaktiven Sicherheitseinweisung entstehen. Alternativ können Sie Storytelling nutzen, um einen noch höheren Grad der Immersion zu ermöglichen. In diesem Fall müssen Sie genau planen, welche Personen in den einzelnen Szenen zu sehen sind, welche Rolle die gezeigten Personen übernehmen, was sie sagen und wie die Lernenden darauf reagieren können. 
+Damit am Drehtag alles reibungslos verläuft, sollten Sie ein Drehbuch vorbereiten, das Details zu jeder geplanten Szene enthält. Überlegen Sie wie viele und welche Szenen für die Umsetzung der Lernanwendung genau benötigt werden. Wo können Sie diese Szenen drehen und welche zusätzlichen Materialien werden benötigt? Sie könnten sich beispielsweise dazu entscheiden, nur einen Raum - sagen wir ein Labor - aus verschiedenen Perspektiven und mit platzierten Gefahrenquellen aufzunehmen und anschließend durch interaktive Elemente anzureichern. So könnte eine Fehlersuche im Rahmen einer interaktiven Sicherheitseinweisung entstehen. Alternativ können Sie Storytelling nutzen, um einen noch höheren Grad der Immersion zu ermöglichen. In diesem Fall müssen Sie genau planen, welche Personen in den einzelnen Szenen zu sehen sind, welche Rollen die gezeigten Personen übernehmen, was sie sagen und wie die Lernenden darauf reagieren können. 
 
 | Szene # | Titel| Handlung| Monolog o. Dialog | Personen und Materialien| | Hinweise| 
 | 1     | Einstieg | Vorstellung der Aufgabe|Kollegin spricht: "Gut, dass du aus der Pause zurück bist! Bitte hilf mir,...|Kollegin (gespielt von X)| Kamera nicht zu nah an Person stellen |
@@ -420,7 +432,7 @@ In folgendem YouTube-Tutorial wird die Benutzung der Insta360 One X2 schnell und
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b-kjaKe0BWM?si=oTIgDRXs0MbGxLHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
-Achtung: Bitte bedenken Sie, dass Sie ein 360-Grad Video erstellen. Der Modus für 180-Grad Videos sollte nicht angestellt werden, da die Aufnahmen für VR-Szenarien nicht verwendet werden können. Bedenken Sie zudem, dass manchen Lernenden bei zu viel Bewegung schlecht werden könnte. Es ist ausreichend die Kamera pro Szene an einem festen Ort zu platzieren - von Aufnahmen, bei denen die Kamera herumgetragen wird, ist dringend abzuraten. Eine Aufnahme sollte jeweils nur wenige Sekunden dauern. Danach kann die Kamera ggf. an einen anderen Ort gestellt werden, damit sich die Lernenden später im Raum bewegen können.
+Achtung: Bitte bedenken Sie, dass Sie ein 360-Grad Video erstellen. Der Modus für 180-Grad Videos sollte nicht angestellt werden, da die Aufnahmen für VR-Szenarien nicht verwendet werden können. Bedenken Sie zudem, dass manchen Lernenden bei zu viel Bewegung schlecht werden könnte. Es ist ausreichend die Kamera pro Szene an einem festen Ort zu platzieren - von Aufnahmen, bei denen die Kamera herumgetragen wird, ist dringend abzuraten. Eine Aufnahme sollte jeweils nur wenige Sekunden dauern. Danach kann die Kamera ggf. an einen anderen Ort gestellt werden, damit sich die Lernenden später mit Hilfe von Wegepunkten im Raum bewegen können.
 
 __Risiko für Cybersickness senken!__
 
@@ -453,7 +465,9 @@ Angebote des SLUB Makerspace: [Zur Webseite der Sächsisches Landes- und Univers
 
 ##  Checkliste zur Vorbereitung
 
-![](https://images.pexels.com/photos/416322/pexels-photo-416322.jpeg)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/checkliste/@@images/34c3312a-96da-4014-a0e9-c2b97d005061.jpeg)
+
+Image: ©Wegner / erstellt mit Canva
 
 Vor dem Drehtag lohnt es sich folgende Checkliste abzuhaken:
 
@@ -493,7 +507,7 @@ Bitte schauen Sie sich folgende Tutorials von den Entwicklern der Software Paneo
 
 Tipp: Wenn Sie für eine Bildungseinrichtung arbeiten, können Sie bei kontakt@paneovr.de ein Upgrade auf eine kostenlose Community+ Lizenz erfragen. Diese beinhaltet die Aufstockung des Speicherplatzes auf 10 GB.
 
-PaneoVR bietet zudem Schulungen für Multiplikator:innen an: https://paneovr.net/schulung/
+PaneoVR bietet zudem kostenpflichtige Schulungen für Multiplikator:innen an: https://paneovr.net/schulung/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJPRUTvteM0?si=faqRvl7qQMd_yZk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -503,7 +517,7 @@ PaneoVR bietet zudem Schulungen für Multiplikator:innen an: https://paneovr.net
 
 __Kompatibilität__
 
-PaneoVR ist kompatibel mit einer Reihe von VR-Brillen. Derzeit werden folgende Hersteller unterstützt:
+PaneoVR ist kompatibel mit einer Reihe von VR-Brillen. Derzeit werden folgende Brillen unterstützt:
 
 * Pico Brillen
 * Meta Quest
@@ -512,11 +526,9 @@ PaneoVR ist kompatibel mit einer Reihe von VR-Brillen. Derzeit werden folgende H
 
 PaneoVR ist darüber hinaus als 2D Anwendung - ganz ohne VR Gerät - nutzbar.
 
-| ![https://pico-web-tob.oss-cn-beijing.aliyuncs.com/ow2c/content/20231116/1724991374877085696.png]| ![https://lookaside.fbsbx.com/elementpath/media/?media_id=254660564132424&version=1735249087&transcode_extension=webp]| Column 3 |
-| -------- | :------: | -------: |
-| Text     |   Text   |     Text |
-
-
+| ![](https://pico-web-tob.oss-cn-beijing.aliyuncs.com/ow2c/content/20240904/pico_4_ultra-1.jpg) | ![](https://unboundxr.de/media/catalog/product/cache/00b36ac9b7793203443e8a5a49fd8f5f/1/4/1477904_1_1_6.webp) | ![](https://www.vive.com/media/filer_public/fed-assets/vive-xr-elite/images/deluxe-pack/vive-xr-elite-deluxe-pack-video-1366.jpg) | ![](https://www.vive.com/media/filer_public/ce/0c/ce0c29a9-3333-4dbc-9cd7-4d3924df4b18/img-setup-link-box-1.png)|
+| -------- | :------: | -------: | -------: |
+| Pico |   Meta |     HTV XR Elite| HTV Vive|
 
 Die jeweils zu installierenden Dateien stehen Ihnen im [PaneoVR-Download-Center](https://paneovr.net/download/) zur Verfügung.
 
@@ -534,7 +546,30 @@ Um die Szenarien in der Brille anzuschauen, sind nur wenige Schritte notwendig:
 Sie können die Szenarien nun anschauen und editieren.
 
 # Einbettung des VR-Szenarios in die Lehre
-## Didaktische und Technische Vorbereitung
+
+##  Was sollte ich beachten, bevor ich die Szenarien mit Lernenden nutze?
+
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/checkliste/@@images/34c3312a-96da-4014-a0e9-c2b97d005061.jpeg)
+
+__Vorbereitungen, um einen reibungslosen Start zu gewährleisten: __
+
+- [ ] Genug Platz für die Einrichtung von "Spielbereichen" einplanen
+- [ ] Zeit für die Einführung der Lernenden in die Funktionen der Brille einplanen, inkl. etwas Zeit zum Erkunden
+- [ ] Beschreibungen einzelner Szenen notieren, damit Sie notfalls auch von Außen Hilfestellungen leisten können
+
+__Vorbereitungen, um die Beteiligung aller Lernenden sicherzustellen:__
+
+- [ ] Zuvor Möglichkeiten des Screencast (Ansicht der Brille auf einem externen Display) prüfen. Dies ist nur mit einer guten Verbindung reibungslos möglich. Ggf. kann ein mobiler WLAN Access Point Abhilfe leisten.
+- [ ] Aufgaben für die Beobachtung durch Lernende vorbereiten, die das Szenario nicht selbst testen 
+
+__Vorbereitungen, um das Risiko auf Cybersickness zu reduzieren__
+
+- [ ] Raum lüften
+- [ ] Stühle in die Nähe der jeweiligen Spielbereiches stellen
+- [ ] Wasser bereitstellen
+- [ ] Lernende auf Cybersickness Risiko hinweisen
+
+
 ## Nutzung von VR mit Schüler*innen/ Studierenden
 
 Was gibt es bei der Nutzung von VR-Szenarien zu beachten? Im Heft 47 der Zeitschrift _Medienpädagogik _geben Raphael Zender, Josef Buchner, Caterina Schäfer, David Wiesche, Kathrin Kelly, Ludger Tüshaus Ihnen einen "Beipackzettel" an die Hand, den wir hier ganz herzlich empfehlen möchten.
@@ -556,3 +591,18 @@ __Quelle__
 Zender, R. et al. (2022). Virtual Reality für Schüler:innen Ein «Beipackzettel» für die Durchführung immersiver Lernszenarien im schulischen Kontext. Immersives Lehren und Lernen. AR/VR - Teil 1 https://doi.org/10.21240/mpaed/47/2022.04.02.X
 
 ## Tipps zur Nachbereitung
+
+Sie haben es geschafft: Das gewünschte Szenario ist erstellt und wurde erfolgreich in der Lehre implementiert. Doch was sagen die Lernenden eigentlich zu der VR-Lernanwendung und ihrer didaktischen Einbettung in den Unterrichte/ das Modul?
+
+Veressen Sie nicht eine Evaluation durchzuführen. Hierfür eignen sich anonymisierte Umfragen oder auch qualitative Evaluationsmethoden wie ein auf die VR-Lernanwednung zugeschnittenes Teaching Analysis Poll (TAP). Erkundigen Sie sich gerne bei Ihrer hochschuldidaktischen Einrichtung vor Ort, ob die Durchführung eines TAPs unterstützt werden kann. 
+
+__Wir möchten Ihnen im Projekt D2C2 auch bei der Weiterentwicklung Ihrer VR-Anwendungen unterstützendes Material zur Verfügung stellen. Bis Ende des Jahres 2025 entsteht an dieser Stelle daher ein Überblick über Qualitätskriterien für VR-Lern-Lehr-Anwendungen. Dieser umfasst medienpädagogische, lernpsychologische, immersiv-gestaltungsbezogene sowie rechtliche Kriterien. Stay tuned!__
+
+![](https://images.pexels.com/photos/6684373/pexels-photo-6684373.jpeg)
+
+# FAQ
+
+Sie haben Fragen, die unbeantwortet geblieben sind? Gemeinsam mit Ihnen möchten wir ein FAQ aufbauen! 
+
+Hinterlassen Sie Ihre Frage in diesem [Cryptpad](https://cryptpad.fr/pad/#/2/pad/edit/i+9LQLoAOi17FGmFl0Vg6UL-/) oder kontaktieren Sie gesine.wegner@tu-dresden.de
+
