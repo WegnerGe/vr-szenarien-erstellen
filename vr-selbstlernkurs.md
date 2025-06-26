@@ -18,10 +18,6 @@ comment:  Dieser Kurs bietet einen kompakten Einstieg in das Thema „VR-Szenari
 
 Images: ©Wegner/Canva
 
-
-?[](b89006819e1c2393a3eba025ff321bea72a3e68b.mp3)
-
-
 __Willkommen__
 
 Dieser Kurs bietet einen kompakten Einstieg in das Thema „VR-Szenarien selbst erstellen“. Sie haben keine Vorerfahrungen im Bereich VR und keinerlei Programmierkenntnisse? Keine Sorge, denn dann sind Sie hier genau richtig! Der Kurs befähigt Sie dazu, mit recht einfachen Mitteln – und ohne Programmierkenntnisse – interaktive 360-Grad Szenarien zu erstellen, die Sie auf einer VR-Brille oder auch als einfache Display-Anwendung (ohne VR-Gerät) auf dem Laptop oder Tablet nutzen können.
@@ -59,10 +55,6 @@ D2C2/ Wegner (2025)
 ![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/xr/@@images/b95e9221-2e20-445e-b29a-75d9b109e3a9.png)
 
 Image: ©Wegner / erstellt mit DALL·E 3
-
-?[](408d5d37595f7f7d2e2a765c8cf4975a8b9a4898.mp3)
-
-Text-to-Speech: ©ElevenLabs
 
 Sowohl innerhalb als auch außerhalb der Universität stößt man mittlerweile vermehrt auf Anwendungen, die den Bereichen Virtual Reality (VR), Augmented Reality (AR), Mixed Reality bzw. Extended Reality (XR) zuzuordnen sind. Die richtige Zuordnung dieser Bezeichnungen ist dabei nicht immer einfach, da einige der Konzepte weiterhin kontrovers diskutiert werden. Das bereits 1994 entwickelte Kontinuum von Paul Milgram (siehe Abbildung) hilft dabei, die Begriffe grundlegend einzuordnen. 
 
@@ -143,10 +135,6 @@ __Quellen
 * Reed, S., Hsi, S., Kreylos, O., Yikilmaz, M.B., Kellogg, L.H., Schladow, S.G., Segale, H., and Chan, L. (2016). Augmented Reality Turns a Sandbox into a Geoscience Lesson, EOS 97, https://doi.org/10.1029/2016EO056135
 
 ## Immersives Lernen
-
-?[](78adcf3fd185fcb7c05a375ded90947775d05704.mp3)
-
-Text-to-Speech: ©ElevenLabs
 
 __Immersion __
 
@@ -605,4 +593,3 @@ __Wir möchten Ihnen im Projekt D2C2 auch bei der Weiterentwicklung Ihrer VR-Anw
 Sie haben Fragen, die unbeantwortet geblieben sind? Gemeinsam mit Ihnen möchten wir ein FAQ aufbauen! 
 
 Hinterlassen Sie Ihre Frage in diesem [Cryptpad](https://cryptpad.fr/pad/#/2/pad/edit/i+9LQLoAOi17FGmFl0Vg6UL-/) oder kontaktieren Sie gesine.wegner@tu-dresden.de
-
