@@ -587,9 +587,3 @@ Veressen Sie nicht eine Evaluation durchzuführen. Hierfür eignen sich anonymis
 __Wir möchten Ihnen im Projekt D2C2 auch bei der Weiterentwicklung Ihrer VR-Anwendungen unterstützendes Material zur Verfügung stellen. Bis Ende des Jahres 2025 entsteht an dieser Stelle daher ein Überblick über Qualitätskriterien für VR-Lern-Lehr-Anwendungen. Dieser umfasst medienpädagogische, lernpsychologische, immersiv-gestaltungsbezogene sowie rechtliche Kriterien. Stay tuned!__
 
 ![](https://images.pexels.com/photos/6684373/pexels-photo-6684373.jpeg)
-
-# FAQ
-
-Sie haben Fragen, die unbeantwortet geblieben sind? Gemeinsam mit Ihnen möchten wir ein FAQ aufbauen! 
-
-Hinterlassen Sie Ihre Frage in diesem [Cryptpad](https://cryptpad.fr/pad/#/2/pad/edit/i+9LQLoAOi17FGmFl0Vg6UL-/) oder kontaktieren Sie gesine.wegner@tu-dresden.de
