@@ -42,11 +42,15 @@ Nach Teilnahme an diesem kostenfreien Online-Kurs...
 
 * haben Sie dank Video-Tutorials einen konkreten Einblick in die technische Umsetzung erhalten und können anhand dieser die Umsetzung eigener VR-Szenarien beginnen.
 
-Viel Spaß beim Lernen wünscht Ihnen das hochschuldidaktische Verbundprojekt D2C2!
+__Quickstart: Sie möchten direkt mit einem Projekt loslegen?__
+
+Sollten Ihnen die Begriffe bekannt sein und Sie bereits ein konkretes Projekt im Blick haben, springen Sie gerne [direkt zum Abschnitt "Das eigene Projekt starten"](#quickstart)[#section_id..
+
+Viel Spaß beim Lernen und Entwickeln wünscht Ihnen das hochschuldidaktische Verbundprojekt D2C2!
 
 PS: Mehr zu D2C2 erfahren Sie auf unserer [D2C2-Webseite](https://www.hd-sachsen.de/projekte/d2c2)
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
+![](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 
 D2C2/ Wegner (2025)
 
@@ -254,6 +258,11 @@ Im Projekt VRinSim haben Studierende der Professur für Gesundheit und Pflege/Be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NBnUpM7A9E?si=Q_ikkSLgBdmsDDDL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+_Sie möchten ein Probeszenario durchlaufen?_
+
+Auf der PaneoVR-Webseite finden Sie eine Reihe von [Demonstrationsszenarien](https://paneovr.net/beispiele/), die Sie auch ohne Account durchlaufen können. Im Frühjahr 2026 soll eine Plattform zum Austausch von Szenarien im Sinne des OER-Gedanken zur Verfügung stehen.
+
 __Interaktives Lernen im Room of Horrors__
 
 Entwickelt von der Stiftung für Patientensicherheit Schweiz bietet der Room of Horror Studierenden und Auszubildenden die Möglichkeit ihre Aufmerksamkeit für Patient:innensicherheitsrisiken zu trainieren. Im Trainingsraum werden Fehler und Risiken für die Patient:innensicherheit versteckt. Lernende versuchen einzeln oder im Team, diese aufzudecken.
@@ -315,6 +324,7 @@ An der Universität Darmstädt wurden im Projekt Future Learning Spaces (fuels) 
 
 Hier werden zeitnah Beispiele von der TUD erscheinen. Gerne möchten wir hier auch weitere Projekte teilen. Bitte melden Sie sich hierfür bei gesine.wegner@tu-dresden.de
 
+<a id="quickstart"></a> 
 # Das eigene Projekt starten
 
 Im Folgenden wird die Entwicklung einer VR-Anwendung Schritt für Schritt umrissen. Die technische Umsetzung wird anhand von 
@@ -582,7 +592,7 @@ Zender, R. et al. (2022). Virtual Reality für Schüler:innen Ein «Beipackzette
 
 Sie haben es geschafft: Das gewünschte Szenario ist erstellt und wurde erfolgreich in der Lehre implementiert. Doch was sagen die Lernenden eigentlich zu der VR-Lernanwendung und ihrer didaktischen Einbettung in den Unterrichte/ das Modul?
 
-Veressen Sie nicht eine Evaluation durchzuführen. Hierfür eignen sich anonymisierte Umfragen oder auch qualitative Evaluationsmethoden wie ein auf die VR-Lernanwednung zugeschnittenes Teaching Analysis Poll (TAP). Erkundigen Sie sich gerne bei Ihrer hochschuldidaktischen Einrichtung vor Ort, ob die Durchführung eines TAPs unterstützt werden kann. 
+Vergessen Sie nicht eine Evaluation durchzuführen. Hierfür eignen sich anonymisierte Umfragen oder auch qualitative Evaluationsmethoden wie ein auf die VR-Lernanwednung zugeschnittenes [Teaching Analysis Poll (TAP)](https://www.dghd.de/blog/teaching-analysis-poll-tap/). Erkundigen Sie sich gerne bei Ihrer hochschuldidaktischen Einrichtung vor Ort, ob die Durchführung eines TAPs unterstützt werden kann. 
 
 __Wir möchten Ihnen im Projekt D2C2 auch bei der Weiterentwicklung Ihrer VR-Anwendungen unterstützendes Material zur Verfügung stellen. Bis Ende des Jahres 2025 entsteht an dieser Stelle daher ein Überblick über Qualitätskriterien für VR-Lern-Lehr-Anwendungen. Dieser umfasst medienpädagogische, lernpsychologische, immersiv-gestaltungsbezogene sowie rechtliche Kriterien. Stay tuned!__
 
