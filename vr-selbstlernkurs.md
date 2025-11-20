@@ -44,7 +44,7 @@ Nach Teilnahme an diesem kostenfreien Online-Kurs...
 
 __Quickstart: Sie möchten direkt mit einem Projekt loslegen?__
 
-Sollten Ihnen die Begriffe bekannt sein und Sie bereits ein konkretes Projekt im Blick haben, springen Sie gerne [direkt zum Abschnitt "Das eigene Projekt starten"](#quickstart)[#section_id..
+Sollten Ihnen die Begriffe bekannt sein und Sie bereits ein konkretes Projekt im Blick haben, springen Sie gerne [direkt zum Abschnitt "Das eigene Projekt starten"](#quickstart)
 
 Viel Spaß beim Lernen und Entwickeln wünscht Ihnen das hochschuldidaktische Verbundprojekt D2C2!
 
